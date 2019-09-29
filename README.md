@@ -5,7 +5,7 @@
 ## App name: CARRO
 
 The main aim of this app is to book the parking slot in shopping malls , cinema halls , restaurants and so on for a respective time.
-this app also shows fastest route from origin to destination
+
 
 ## problem
 one of the most common problems
